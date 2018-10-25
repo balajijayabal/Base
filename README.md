@@ -18,4 +18,5 @@ Exception handled properly.
 
 Parameters to run this program:
 
-java SortCSVFileService ./base_file.csv a ./sorting_file.csv d java [your-main-class] [file-to-be-sorted] [column-to-sort-on] [sort-order-d
+java SortCSVFileService ./base_file.csv a ./sorting_file.csv d java 
+
